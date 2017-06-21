@@ -11,5 +11,15 @@
  << - Add 1 to the cell value of 97 and print each time : making the alphabet
 ]
 
-The neat thing:
-+++++++++++++++++++++++++>++++++++++[>++++++++++<-]>---.<<[>>+.<<-]
+
+
+
+
+
+The neat little block thing:
+++++++++++++
++++++++++++++
+>++++++++++
+[>++++++++++<-]
+>---.<<
+[>>+.<<-]
