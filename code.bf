@@ -10,3 +10,6 @@
  >>  + . Loop over cell 1 : which has the value of 25 and 
  << - Add 1 to the cell value of 97 and print each time : making the alphabet
 ]
+
+The neat thing:
++++++++++++++++++++++++++>++++++++++[>++++++++++<-]>---.<<[>>+.<<-]
